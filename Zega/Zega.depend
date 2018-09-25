@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1537467540 source:c:\users\cyril\projets c\zega\main.cpp
+	<iostream>
+	<stdio.h>
+	<map>
+	<string>
+	"exprtk.hpp"
+
+1537467451 c:\users\cyril\projets c\zega\exprtk.hpp
+	<algorithm>
+	<cctype>
+	<cmath>
+	<complex>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<deque>
+	<exception>
+	<functional>
+	<iterator>
+	<limits>
+	<list>
+	<map>
+	<set>
+	<stack>
+	<stdexcept>
+	<string>
+	<utility>
+	<vector>
+	<windows.h>
+	<ctime>
+	<ctime>
+	<sys/time.h>
+	<sys/types.h>
+	<fstream>
+
